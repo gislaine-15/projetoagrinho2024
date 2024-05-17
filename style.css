@@ -1,0 +1,40 @@
+.cabeçalho{background-color:#31ce39c9;color: #ffffff; display:flex;justify-content:space-around;} 
+.imagem-logo{width: 20%}
+.cabeçalho-lista-item{display:inline-block;margin:0 16px; font-size:20px;}
+.cabeçalho-lista{display: inline-block;}
+.roupas-imagem{width: 25%;}
+.roupas{
+    background-image:linear-gradient(#ff0000c9,#e4baba);
+    color: #f7f3f3;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    padding: 24px 0;}
+.roupas-div-conteudo {width: 45%;}
+.roupas-titulo{padding: 30px 0;}
+
+.vestidos{ padding: 24px 0; background-color: #e4baba;}
+
+.vestidos-imagem{ width: 140px;}
+
+.vestidos-div{
+    text-align: center;
+padding: 16px 0;}
+
+.vestidos-titulo{
+    text-align: center;
+    padding: 50px 0;
+    color: #f7f3f3;
+}
+
+.vestidos-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+.vestidos-nome {color: #ffffffc9;}
+
+.rodape{
+    background-color: #31ce39c9;
+    text-align: center;
+}
